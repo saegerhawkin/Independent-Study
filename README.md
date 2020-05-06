@@ -8,3 +8,4 @@ I am working with the data from the World Values survey in this project. You can
 <br><strong>Tools: </strong><br>
 To do the analysis I am using Python in Jupyter Labs. To organize my packages, I am using Anaconda.
 
+For a better view of my notebook check out this link https://nbviewer.jupyter.org/github/saegerhawkin/Independent-Study/blob/master/WV6_Machine_Learning.ipynb
